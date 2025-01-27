@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ed669c-d0a2-4c0f-b54f-053b0eb2b379" name="Changes" comment="" />
+    <list default="true" id="39ed669c-d0a2-4c0f-b54f-053b0eb2b379" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.math_utils.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature-1&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-2&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Pootis/ZGU-lab-work-git/src/math_utils.py&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -51,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737735037382</updated>
-      <workItem from="1737735038752" duration="2669000" />
+      <workItem from="1737735038752" duration="4492000" />
     </task>
     <servers />
   </component>
