@@ -1,5 +1,3 @@
-print("Hello, World!")
-
 def add_numbers(x, y):
   """
   Эта функция складывает два числа и возвращает результат.
@@ -28,4 +26,5 @@ num5 = 2.5
 num6 = 1.2
 result = add_numbers(num5, num6)
 print(f"Сумма {num5} и {num6} равна {result}") # Вывод: Сумма 2.5 и 1.2 равна 3.7
+
 
